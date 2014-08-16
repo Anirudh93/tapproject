@@ -49,10 +49,14 @@ This project is done by,
 		above fields if necessary.
 	
 	2.2 View current balance of the account
-		In the view balance module, admin should be able to view the balance information of all the accounts. Admin should be entering either the full account number, or full name or part of the customer name. System should be able to provide the details based on the input provided.
+		In the view balance module, admin should be able to view the balance information
+		of all the accounts. Admin should be entering either the full account number, or
+		full name or part of the customer name. System should be able to provide the
+		details based on the input provided.
 
 	2.3. Fund Transfer between the accounts
-		In the fund transfer module, the admin should be able to transfer the funds between different accounts within the same bank.
+		In the fund transfer module, the admin should be able to transfer the funds
+		between different accounts within the same bank.
 
 	Rules:
 		* If the customer withdraws the amou~t directly from the bank, the amount should
@@ -64,7 +68,8 @@ This project is done by,
 			should be deducted from the sender account.
 
 	2.4. Calculation of interest amount
-		In the interest amount calculation module, the admin should be able to calculate the amount of interest( as on the current date), for a particular account.
+		In the interest amount calculation module, the admin should be able to calculate
+		the amount of interest( as on the current date), for a particular account.
 
 	Rules:
 		* The admin should enter the account number only. System should be able to
@@ -98,8 +103,11 @@ This project is done by,
 		balance and transaction details.
 
 ###6. Checks
+
 	Following are a few checks, which one can incorporate, in the computerized solution
+	
 		* Admin should be logging in with a username and password
+
 		* During Fund transfer I cash withdraw, if there is no sufficient amount left in
 		the account, the system should throw an error.
 
@@ -108,10 +116,14 @@ This project is done by,
 	available on the internet/intranet. If any modifications are to be made or are
 	desirable, to the above project description, discuss wit~ your team/your teacher and
 	then incorporate these in the project.
+
 	* All inputs/output for the specified processes are to be computerized.
+
 	* The Reports are generated based on the data stored in the tables mentioned below.
+
 	* Design appropriate modules, data fields, records and files required in the
 	computerization and program development process. You may prepare your own data,
 	wherever necessary.
+
 	* In case if you feel it would be appropriate to add some more functionalites you may
 	proceed with it wherever necessary.
