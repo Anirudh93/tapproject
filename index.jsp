@@ -4,7 +4,7 @@
 </head>
 
 <body>
-<h1>Super Market Billing - Login</h1>
+<h1>Model Bank - Login</h1>
 <br/>
 </body>
 
