@@ -3,9 +3,9 @@
 This is a simple J2EE project based on the case stury - "Banking Application - Customer Management" for the TCS Technology Appreciation Program.
 
 This project is done by,
-  :large_blue_diamond: Gowtham Raj J (myself)
-  :large_blue_diamond: Ambalavanan M M
-  :large_blue_diamond: Anirudh A
+	:large_blue_diamond: Gowtham Raj J (myself)
+	:large_blue_diamond: Ambalavanan M M
+	:large_blue_diamond: Anirudh A
 
 ##Case Study
 1. Introduction to the Process
