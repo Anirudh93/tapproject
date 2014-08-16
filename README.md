@@ -27,7 +27,7 @@ This project is done by,
 
 ###2. Process Steps in Detail
 
-  2.1 Creation of a new account
+	2.1 Creation of a new account
 	After logging into the user creation module, the following details should be entered
 	for creation the new user.
 		Account Number :
@@ -38,7 +38,7 @@ This project is done by,
 		Customer Email:
 		Customer Zip :
 		Date of Birth :
-		Type' of account (FD/RD/SB):
+		Type of account (FD/RD/SB):
 		Rate of interest :
 		Initial Balance :
 
@@ -48,14 +48,11 @@ This project is done by,
 		* The above mentioned fields are sample fields only. One can add/remove/modify the
 		above fields if necessary.
 	
-  2.2 View current balance of the account
-  	In the view balance module, admin should be able to view the balance information of
-	all the accounts. Admin should be entering either the full account number, or full name or part of the customer name. System should be able to provide the details based
-	on the input provided.
+	2.2 View current balance of the account
+		In the view balance module, admin should be able to view the balance information of all the accounts. Admin should be entering either the full account number, or full name or part of the customer name. System should be able to provide the details based on the input provided.
 
-  2.3. Fund Transfer between the accounts
-  	In the fund transfer module, the admin should be able to transfer the funds between
-	different accounts within the same bank.
+	2.3. Fund Transfer between the accounts
+		In the fund transfer module, the admin should be able to transfer the funds between different accounts within the same bank.
 
 	Rules:
 		* If the customer withdraws the amou~t directly from the bank, the amount should
@@ -66,9 +63,8 @@ This project is done by,
 		* If the target account is not an SB account, then an additional 1 % commission
 			should be deducted from the sender account.
 
-  2.4. Calculation of interest amount
-  	In the interest amount calculation module, the admin should be able to calculate the
-	amount of interest( as on the current date), for a particular account.
+	2.4. Calculation of interest amount
+		In the interest amount calculation module, the admin should be able to calculate the amount of interest( as on the current date), for a particular account.
 
 	Rules:
 		* The admin should enter the account number only. System should be able to
