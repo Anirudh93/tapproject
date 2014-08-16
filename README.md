@@ -83,11 +83,10 @@ Case Study
         Oracle 9i I MYSQL
         
 5. Reports Required
-  5.1 List of ft.:nd transfer transactions made within a time frame.
-  5.2 List of all failed transactions, along with the reason of th~ failure.
+  5.1. List of fund transfer transactions made within a time frame.
+  5.2. List of all failed transactions, along with the reason of th~ failure.
   5.3 List of cash withdraw made directly from the bank
-  5.4 List of all new customer added within a time frame, along with their balance and
-  transaction details.
+  5.4 List of all new customer added within a time frame, along with their balance and transaction details.
   
 6.Checks
 
